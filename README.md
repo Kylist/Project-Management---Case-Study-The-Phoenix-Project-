@@ -29,6 +29,7 @@ First, the CEO and the managers should have a meeting to clarify the new methods
 With new tracking and meeting system, all departments of Parts Unlimited will always be on the same page and have more motivation to participate in the weekly meeting. I recommend implementing the new meeting and reporting system that will address the communication among departments. This 1-month project will begin in April 28th and end in May 26th.  This project requires a budget of $629,904 and a team of 7 people, not including managers & team members who will participate in the training program or the CEO to be successful.
 
 Cite
+
 DeBenedetti, J. (2019, February 11). How to Solve Business Communication Problems. Retrieved from https://bizfluent.com/how-5997905-solve-business-communication-problems.html
 Kim, Gene, et al. The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win. IT Revolution Press, 2018.
 
