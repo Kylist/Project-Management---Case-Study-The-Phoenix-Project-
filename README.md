@@ -1,5 +1,15 @@
 In this project, I will represent as a contractory project manager hired by the main character in the novel. My problem is to present with him and the broad members a solution to change the method of communication of his team based on my project management knowledge.
 
+My Project include:
+  + Project Scope
+  + Project Communication Plan
+  + Project Cost Estimation
+  + Project Org Chart
+  + Project Risk Register
+  + Project Stakeholder Register
+  + Project Timeline
+  
+
 1.	What is “CC Project”?
 My project has the name of Communication Change project or “CC Project”. With the goal of solving communication problem among departments, which leads the inconsistence, delay and confusion all over Parts Unlimited, “CC Project” will provide step by step of how to change the way departments communicate. “CC Project” is a short but intense project that last for 4 weeks. This project focuses on developing new meeting and reporting systems.
 
