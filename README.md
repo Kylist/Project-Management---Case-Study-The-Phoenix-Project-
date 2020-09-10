@@ -1,6 +1,6 @@
 In this project, I will represent as a contractory project manager hired by the main character in the novel. My problem is to present with him and the broad members a solution to change the method of communication of his team based on my project management knowledge.
 
-My Project include:
+My Project include: Image Below
   + Project Scope
   + Project Communication Plan
   + Project Cost Estimation
@@ -32,4 +32,36 @@ Cite
 
 DeBenedetti, J. (2019, February 11). How to Solve Business Communication Problems. Retrieved from https://bizfluent.com/how-5997905-solve-business-communication-problems.html
 Kim, Gene, et al. The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win. IT Revolution Press, 2018.
+
+Image of the documents:
+
+1. Project Scope
+![scope1](https://user-images.githubusercontent.com/28942562/92684711-1b337f80-f304-11ea-9aca-3b7f20bbb953.png)
+![scope2](https://user-images.githubusercontent.com/28942562/92684715-1ec70680-f304-11ea-957e-fcce2381ee3f.png)
+![scope3](https://user-images.githubusercontent.com/28942562/92684720-238bba80-f304-11ea-90f9-4f5ffd499232.png)
+
+2. Project Communication Plan
+![communication1](https://user-images.githubusercontent.com/28942562/92684732-2ab2c880-f304-11ea-9f0e-68eb5712ef97.png)
+![communication2](https://user-images.githubusercontent.com/28942562/92684734-2ab2c880-f304-11ea-9a35-a35cb7fef8a8.png)
+
+3. Project Cost Estimation
+![cost](https://user-images.githubusercontent.com/28942562/92684743-32726d00-f304-11ea-9ab6-ac37b4eb5b98.png)
+
+4. Project Org Chart
+![org](https://user-images.githubusercontent.com/28942562/92684751-369e8a80-f304-11ea-8908-9c65e17e6e4a.png)
+
+5. Project Risk Register
+![risk1](https://user-images.githubusercontent.com/28942562/92684756-3d2d0200-f304-11ea-847e-de5dc84488fa.png)
+![risk2](https://user-images.githubusercontent.com/28942562/92684757-3d2d0200-f304-11ea-8c8e-8d5db8377494.png)
+
+6. Project Stakeholder Register
+![stakeholder](https://user-images.githubusercontent.com/28942562/92684770-43bb7980-f304-11ea-85ce-86faa15f54b0.png)
+![stakeholder2](https://user-images.githubusercontent.com/28942562/92684772-43bb7980-f304-11ea-82cd-7b0e9553bddc.png)
+
+7. Project Timeline
+![time1](https://user-images.githubusercontent.com/28942562/92684773-43bb7980-f304-11ea-901e-edc2f5730798.png)
+![time2](https://user-images.githubusercontent.com/28942562/92684774-43bb7980-f304-11ea-8d58-a55d79ac47f1.png)
+
+
+
 
